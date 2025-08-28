@@ -1,4 +1,4 @@
-14:24:34 **** Incremental Build of configuration TriCore Debug (TASKING) for project TC275-LED ****
+15:31:02 **** Incremental Build of configuration TriCore Debug (TASKING) for project TC275-LED ****
 amk -j8 all 
 TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
 Building target: TC275-LED.elf
@@ -14,5 +14,5 @@ RAM: 0x951d (38173) = data + bss
 Finished building: TC275-LED.siz
  
 
-14:24:35 Build Finished. 0 errors, 0 warnings. (took 495ms)
+15:31:02 Build Finished. 0 errors, 0 warnings. (took 598ms)
 
