@@ -3273,3 +3273,631 @@ si.isystem.exceptions.SException: Please set the C++ Application in the Main tab
 !MESSAGE Debug session for this launch configuration is already running.
 
 Please stop the current launch to start a new one.
+
+!ENTRY com.infineon.aurix.buildsystem.remote-repo 1 0 2025-08-29 13:13:19.523
+!MESSAGE Using local cache for artifact: project-initializer:tricore-tc2xx
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-29 13:13:38.022
+!MESSAGE Indexed 'Timer_Test1' (164 sources, 642 headers) in 13.7 sec: 135,335 declarations; 206,715 references; 12 unresolved inclusions; 13,481 syntax errors; 2,681 unresolved names (0.78%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:15:41.134
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 814 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:15:41.156
+!MESSAGE Include paths were discovered in 20 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:15:50.386
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 170 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:15:50.409
+!MESSAGE Include paths were discovered in 21 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 13:16:12.133
+!MESSAGE Invalid frame level (0) in respect to frame count 0
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:24:11.501
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:24:11.502
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:24:11.524
+!MESSAGE Include paths were discovered in 21 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:24:31.260
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 901 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:24:31.282
+!MESSAGE Include paths were discovered in 20 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:25:17.164
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 908 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:25:17.185
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:26:28.722
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 137 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:26:28.742
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2025-08-29 13:28:35.785
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.DataRequestMonitor@3e97890c): Status CANCEL: si.isystem.eclipse.debug code=0 Cancelling command ISysCmdMiscUpdateCpuStatus[ISysDebuggerDmContext(7, Timer_Test1.elf)]()
+' resulted in a cancel status: Status CANCEL: si.isystem.eclipse.debug code=0 Cancelling command ISysCmdMiscUpdateCpuStatus[ISysDebuggerDmContext(7, Timer_Test1.elf)]()
+, even though the request is not set to cancel.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:30:58.223
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 888 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:30:58.243
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:31:01.160
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 143 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:31:01.182
+!MESSAGE Include paths were discovered in 20 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:31:40.086
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:31:40.087
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:31:40.108
+!MESSAGE Include paths were discovered in 20 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:31:42.960
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 135 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:31:42.980
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:34:25.887
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 1071 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:34:25.908
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:34:28.080
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 142 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:34:28.100
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 13:35:43.781
+!MESSAGE Invalid frame level (0) in respect to frame count 0
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:37:30.674
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 1003 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:37:30.693
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:38:07.746
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:38:07.746
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:38:07.767
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:38:24.853
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 885 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:38:24.872
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:38:27.134
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 142 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:38:27.153
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:39:44.047
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 976 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:39:44.070
+!MESSAGE Include paths were discovered in 21 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 13:39:46.659
+!MESSAGE Debug session for this launch configuration is already running.
+
+Please stop the current launch to start a new one.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 13:39:49.400
+!MESSAGE Target not available.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 13:39:51.159
+!MESSAGE Invalid frame level (0) in respect to frame count 0
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:39:53.816
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 142 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:39:53.836
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:42:35.783
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 903 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:42:35.803
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:42:39.005
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 132 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:42:39.025
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 13:42:59.056
+!MESSAGE Invalid frame level (0) in respect to frame count 0
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:43:03.270
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 132 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:43:03.291
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 13:43:21.412
+!MESSAGE Invalid frame level (0) in respect to frame count 0
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:47:20.915
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 909 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:47:20.935
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:47:24.838
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 142 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:47:24.870
+!MESSAGE Include paths were discovered in 30 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 13:47:48.580
+!MESSAGE Invalid frame level (0) in respect to frame count 0
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:48:25.083
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 909 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:48:25.103
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:48:27.773
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 154 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:48:27.798
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 13:51:25.706
+!MESSAGE Debug session for this launch configuration is already running.
+
+Please stop the current launch to start a new one.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 13:51:28.500
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:55:20.499
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 951 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:55:20.519
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:55:23.441
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 145 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:55:23.462
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:56:08.807
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 1096 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:56:08.827
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:56:12.239
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 133 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:56:12.260
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:57:18.758
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 984 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:57:18.782
+!MESSAGE Include paths were discovered in 23 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:57:22.260
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 132 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 13:57:22.281
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:09:50.336
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 889 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:09:50.355
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:10:01.152
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 142 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:10:01.171
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:13:02.250
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:13:02.250
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:13:02.271
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:13:06.934
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 132 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:13:06.953
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:15:08.393
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 897 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:15:08.414
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 14:15:43.539
+!MESSAGE Debug session for this launch configuration is already running.
+
+Please stop the current launch to start a new one.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 14:15:46.908
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:15:54.172
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 138 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:15:54.191
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:17:42.103
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 920 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:17:42.126
+!MESSAGE Include paths were discovered in 21 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 14:17:45.332
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:18:01.230
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 893 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:18:01.248
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:18:05.631
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 133 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:18:05.650
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 14:18:38.751
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:19:42.304
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 1072 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:19:42.323
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:19:44.944
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 134 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:19:44.963
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:20:21.858
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 995 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:20:21.877
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 14:20:23.107
+!MESSAGE Debug session for this launch configuration is already running.
+
+Please stop the current launch to start a new one.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 14:20:24.916
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:20:27.800
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 134 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:20:27.821
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:26:15.530
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 906 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:26:15.549
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 14:26:16.214
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:26:21.320
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 134 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:26:21.339
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:29:16.621
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 925 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:29:16.640
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 14:29:17.697
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:29:20.977
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 136 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:29:20.997
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 14:31:11.925
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:44:43.431
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 966 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:44:43.451
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:44:48.151
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 141 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:44:48.172
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 14:47:59.421
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2025-08-29 14:48:01.300
+!MESSAGE Request monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.DataRequestMonitor@2a80e688): Status CANCEL: si.isystem.eclipse.debug code=0 Cancelling command ISysCmdMiscUpdateCpuStatus[ISysDebuggerDmContext(28, Timer_Test1.elf)]()
+' resulted in a cancel status: Status CANCEL: si.isystem.eclipse.debug code=0 Cancelling command ISysCmdMiscUpdateCpuStatus[ISysDebuggerDmContext(28, Timer_Test1.elf)]()
+, even though the request is not set to cancel.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:48:05.386
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 920 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:48:05.405
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:48:07.731
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 145 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 14:48:07.767
+!MESSAGE Include paths were discovered in 34 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:06:31.317
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 2123 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:06:31.335
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 15:07:03.358
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:07:08.088
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test1 boosted in 134 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:07:08.108
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem.remote-repo 1 0 2025-08-29 15:33:37.649
+!MESSAGE Using local cache for artifact: project-initializer:tricore-tc2xx
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-29 15:33:54.726
+!MESSAGE Indexed 'Timer_Test2' (164 sources, 642 headers) in 11.4 sec: 135,335 declarations; 206,715 references; 12 unresolved inclusions; 13,481 syntax errors; 2,681 unresolved names (0.78%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:46:59.644
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 849 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:46:59.664
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:47:14.846
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 174 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:47:14.869
+!MESSAGE Include paths were discovered in 21 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:48:59.429
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 899 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:48:59.448
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 15:49:12.054
+!MESSAGE Debug session for this launch configuration is already running.
+
+Please stop the current launch to start a new one.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:49:27.595
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 133 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:49:27.614
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:58:02.160
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 877 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:58:02.179
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY si.isystem.eclipse.debug 4 0 2025-08-29 15:58:04.837
+!MESSAGE Debug session for this launch configuration is already running.
+
+Please stop the current launch to start a new one.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 15:58:06.937
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:58:10.864
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 134 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 15:58:10.883
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:00:49.945
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:00:49.945
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:00:49.966
+!MESSAGE Include paths were discovered in 20 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:00:58.858
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 132 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:00:58.876
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:03:54.219
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 1024 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:03:54.255
+!MESSAGE Include paths were discovered in 35 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:03:57.451
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 134 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:03:57.470
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 16:05:49.463
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:05:57.049
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 1006 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:05:57.068
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:05:59.680
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project Timer_Test2 boosted in 133 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:05:59.700
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem.remote-repo 1 0 2025-08-29 16:14:26.300
+!MESSAGE Using local cache for artifact: project-initializer:tricore-tc2xx
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-29 16:14:41.838
+!MESSAGE Indexed 'GPT_PWM_Test1' (164 sources, 642 headers) in 11.2 sec: 135,335 declarations; 206,715 references; 12 unresolved inclusions; 13,481 syntax errors; 2,681 unresolved names (0.78%)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:22:47.314
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 813 milliseconds. (full boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:22:47.334
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:23:39.707
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 158 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:23:39.726
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 16:24:57.429
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:25:03.100
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 946 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:25:03.119
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:25:06.258
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 132 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:25:06.277
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 16:26:03.881
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:26:03.897
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 894 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:26:03.915
+!MESSAGE Include paths were discovered in 16 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:26:07.496
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 131 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:26:07.515
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 16:26:37.102
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:35:28.609
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 877 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:35:28.628
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:38:46.610
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:38:46.610
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:38:46.630
+!MESSAGE Include paths were discovered in 18 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:40:15.254
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 854 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:40:15.273
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:42:08.204
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 857 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:42:08.222
+!MESSAGE Include paths were discovered in 16 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:42:32.833
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 860 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:42:32.851
+!MESSAGE Include paths were discovered in 16 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:42:48.854
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 137 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:42:48.873
+!MESSAGE Include paths were discovered in 17 milliseconds.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:46:35.145
+!MESSAGE Project index is not complete, and cannot be used for boosting.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:46:35.145
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 0 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:46:35.166
+!MESSAGE Include paths were discovered in 19 milliseconds.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2025-08-29 16:46:37.474
+!MESSAGE Target not available.
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:46:40.605
+!MESSAGE Boosting configuration TriCore Debug (TASKING) of project GPT_PWM_Test1 boosted in 136 milliseconds. (incremental boost)
+
+!ENTRY com.infineon.aurix.buildsystem 1 0 2025-08-29 16:46:40.624
+!MESSAGE Include paths were discovered in 18 milliseconds.

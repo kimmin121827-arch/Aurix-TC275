@@ -1,0 +1,6 @@
+15:07:08 **** Incremental Build of configuration TriCore Debug (TASKING) for project Timer_Test1 ****
+amk -j8 all 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
+Building target: Timer_Test1.elf
+Invoking: TASKING Linker
+cctc -f .Timer_Test1.elf.opt

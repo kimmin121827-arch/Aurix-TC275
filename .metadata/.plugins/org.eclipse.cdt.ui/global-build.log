@@ -1,18 +1,36 @@
 Build started...
-13:04:44 **** Incremental Build of configuration TriCore Debug (TASKING) for project Single_ADC_Test ****
+16:46:35 **** Incremental Build of configuration TriCore Debug (TASKING) for project GPT_PWM_Test1 ****
 amk -j8 all 
 TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
-cctc -cs --dep-file="Cpu1_Main.d" --misrac-version=2004 -D__CPU__=tc27xd "-fD:/Project/Aurix-TC275/Single_ADC_Test/TriCore Debug (TASKING)/TASKING_C_C___Compiler-Include_paths__-I_.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc27xd -Y0 -N0 -Z0 -o "Cpu1_Main.src" "../Cpu1_Main.c"
-astc -Og -Os --no-warnings= --error-limit=42 -o  "Cpu1_Main.o" "Cpu1_Main.src"
-Building target: Single_ADC_Test.elf
+cctc -cs --dep-file="Cpu0_Main.d" --misrac-version=2004 -D__CPU__=tc27xd "-fD:/Project/Aurix-TC275/GPT_PWM_Test1/TriCore Debug (TASKING)/TASKING_C_C___Compiler-Include_paths__-I_.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc27xd -Y0 -N0 -Z0 -o "Cpu0_Main.src" "../Cpu0_Main.c"
+cctc -cs --dep-file="GPT12_PWM_Generation.d" --misrac-version=2004 -D__CPU__=tc27xd "-fD:/Project/Aurix-TC275/GPT_PWM_Test1/TriCore Debug (TASKING)/TASKING_C_C___Compiler-Include_paths__-I_.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc27xd -Y0 -N0 -Z0 -o "GPT12_PWM_Generation.src" "../GPT12_PWM_Generation.c"
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Cpu0_Main.o" "Cpu0_Main.src"
+astc -Og -Os --no-warnings= --error-limit=42 -o  "GPT12_PWM_Generation.o" "GPT12_PWM_Generation.src"
+Building target: GPT_PWM_Test1.elf
 Invoking: TASKING Linker
-cctc -f .Single_ADC_Test.elf.opt
-Finished building target: Single_ADC_Test.elf
+cctc -f .GPT_PWM_Test1.elf.opt
+Finished building target: GPT_PWM_Test1.elf
  
 Invoking: Print Size
-elfsize  "Single_ADC_Test.elf"
+elfsize  "GPT_PWM_Test1.elf"
 Total sizes:
-ROM: 0x4af1 (19185) = code: 0x46a2 (18082) + romdata: 0x44f (1103)
-RAM: 0x976d (38765) = data + bss
-Finished building: Single_ADC_Test.siz
+ROM: 0x2407 (9223) = code: 0x225e (8798) + romdata: 0x1a9 (425)
+RAM: 0x9521 (38177) = data + bss
+Finished building: GPT_PWM_Test1.siz
+ 
+Build started...
+16:46:40 **** Incremental Build of configuration TriCore Debug (TASKING) for project GPT_PWM_Test1 ****
+amk -j8 all 
+TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
+Building target: GPT_PWM_Test1.elf
+Invoking: TASKING Linker
+cctc -f .GPT_PWM_Test1.elf.opt
+Finished building target: GPT_PWM_Test1.elf
+ 
+Invoking: Print Size
+elfsize  "GPT_PWM_Test1.elf"
+Total sizes:
+ROM: 0x2407 (9223) = code: 0x225e (8798) + romdata: 0x1a9 (425)
+RAM: 0x9521 (38177) = data + bss
+Finished building: GPT_PWM_Test1.siz
  
