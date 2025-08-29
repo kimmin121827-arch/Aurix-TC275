@@ -6,3 +6,15 @@ astc -Og -Os --no-warnings= --error-limit=42 -o  "Cpu1_Main.o" "Cpu1_Main.src"
 Building target: Single_ADC_Test.elf
 Invoking: TASKING Linker
 cctc -f .Single_ADC_Test.elf.opt
+Finished building target: Single_ADC_Test.elf
+ 
+Invoking: Print Size
+elfsize  "Single_ADC_Test.elf"
+Total sizes:
+ROM: 0x4af1 (19185) = code: 0x46a2 (18082) + romdata: 0x44f (1103)
+RAM: 0x976d (38765) = data + bss
+Finished building: Single_ADC_Test.siz
+ 
+
+13:04:45 Build Finished. 0 errors, 0 warnings. (took 763ms)
+

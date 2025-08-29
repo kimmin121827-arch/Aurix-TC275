@@ -847,3 +847,78 @@ Starting debug session using launch configuration paramenters:
 6791033 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  6791043.691299  ***  ISysBreakpointService initialization(main) finished.
 6791033 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  6791043.7005  ***  ISysBreakpointService initialization(sub) finished.
 6791035 INFO  [si.isystem.eclipse.debug - 5] ISysLaunch : ***  6791044.9936  ***  Services initialization sequence completed
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractCommand : ***  1.11085204448E7  ***  Processing the last command to be processed: si.isystem.dsf.control.commands.ISysCmdMiscTerminateDebugger
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085205204E7  ***  Command Control was shut down - cancelling remaining commands in queue.
+11108510 INFO  [Worker-1: Command Executor Job] ISysAbstractDsfService : ***  1.11085204192E7  ***  ISysCommandControl command dequeued - exiting command processing loop
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.1108520549E7  ***  Command Controll queue is empty and closed.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085209258E7  ***  ISysBreakpointService shutdown(super) started.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085209948E7  ***  ISysBreakpointService shutdown(super) finished.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085210044E7  ***  ISysBreakpointService shutdown(main) started.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085210144E7  ***  ISysBreakpointService removed from service event listener list
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085210961E7  ***  ISysBreakpointService shutdown(main) finished.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.1108521111E7  ***  ISysBreakpointService shutdown(sub) finished.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085211316E7  ***  ISysRteService shutdown(super) started.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085211488E7  ***  ISysRteService shutdown(super) finished.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085211572E7  ***  ISysRteService shutdown(main) started.
+11108510 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085211655E7  ***  ISysRteService removed from service event listener list
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085212304E7  ***  ISysRteService shutdown(main) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085213086E7  ***  ISysRteService shutdown(sub) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085213342E7  ***  ISysSfrService shutdown(super) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085213503E7  ***  ISysSfrService shutdown(super) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085213588E7  ***  ISysSfrService shutdown(main) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085213671E7  ***  ISysSfrService removed from service event listener list
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.1108521437E7  ***  ISysSfrService shutdown(main) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085214616E7  ***  ISysSfrService shutdown(sub) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085214805E7  ***  ISysDisassemblyService shutdown(super) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085214959E7  ***  ISysDisassemblyService shutdown(super) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085215042E7  ***  ISysDisassemblyService shutdown(main) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085215777E7  ***  ISysDisassemblyService shutdown(main) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085215892E7  ***  ISysDisassemblyService shutdown(sub) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085216072E7  ***  ISysRegistersService shutdown(super) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085216209E7  ***  ISysRegistersService shutdown(super) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085216286E7  ***  ISysRegistersService shutdown(main) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085216367E7  ***  ISysRegistersService removed from service event listener list
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085217176E7  ***  ISysRegistersService shutdown(main) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085217293E7  ***  ISysRegistersService shutdown(sub) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085217465E7  ***  ISysExpressionsService shutdown(super) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085217604E7  ***  ISysExpressionsService shutdown(super) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085217685E7  ***  ISysExpressionsService shutdown(main) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085217767E7  ***  ISysExpressionsService removed from service event listener list
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085218818E7  ***  ISysExpressionsService shutdown(main) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085218947E7  ***  ISysExpressionsService shutdown(sub) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085219127E7  ***  ISysSourceLookupService shutdown(super) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.1108521926E7  ***  ISysSourceLookupService shutdown(super) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085219335E7  ***  ISysSourceLookupService shutdown(main) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085219984E7  ***  ISysSourceLookupService shutdown(main) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085220116E7  ***  ISysSourceLookupService shutdown(sub) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085220303E7  ***  ISysMemoryService shutdown(super) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085220452E7  ***  ISysMemoryService shutdown(super) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085220534E7  ***  ISysMemoryService shutdown(main) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085220617E7  ***  ISysMemoryService removed from service event listener list
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085221393E7  ***  ISysMemoryService shutdown(main) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085221507E7  ***  ISysMemoryService shutdown(sub) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085221642E7  ***  ISysStackService shutdown(super) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085221772E7  ***  ISysStackService shutdown(super) finished.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.1108522185E7  ***  ISysStackService shutdown(main) started.
+11108511 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085221929E7  ***  ISysStackService removed from service event listener list
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085222655E7  ***  ISysStackService shutdown(main) finished.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.1108522277E7  ***  ISysStackService shutdown(sub) finished.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085222904E7  ***  ISysRunControl shutdown(super) started.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085223031E7  ***  ISysRunControl shutdown(super) finished.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085223113E7  ***  ISysRunControl shutdown(main) started.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085223193E7  ***  ISysRunControl removed from service event listener list
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085223873E7  ***  ISysRunControl shutdown(main) finished.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085223982E7  ***  ISysRunControl shutdown(sub) finished.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085224114E7  ***  ISysCommandControl shutdown(super) started.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085224237E7  ***  ISysCommandControl shutdown(super) finished.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085224314E7  ***  ISysCommandControl shutdown(main) started.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085224978E7  ***  ISysCommandControl shutdown(main) finished.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085225091E7  ***  ISysCommandControl shutdown(sub) finished.
+11108512 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085225263E7  ***  ISysConnectionService shutdown(super) started.
+11108512 INFO  [si.isystem.eclipse.debug - 5] IConnectProxy : ***  1.11085225635E7  ***  Shutting down iConnect for cores: [I@18eef057
+11108512 INFO  [si.isystem.eclipse.debug - 5] IConnectProxy : ***  1.11085225794E7  ***  Disconnecting from and closing winIDEA on core 0.
+11108552 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085626233E7  ***  ISysConnectionService shutdown(super) finished.
+11108552 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085627226E7  ***  ISysConnectionService shutdown(main) started.
+11108552 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085627342E7  ***  ISysConnectionService shutdown(main) finished.
+11108552 INFO  [si.isystem.eclipse.debug - 5] ISysAbstractDsfService : ***  1.11085627437E7  ***  ISysConnectionService shutdown(sub) finished.
+11108552 INFO  [si.isystem.eclipse.debug - 5] ISysLaunch : ***  1.11085628031E7  ***  Debug services shutdown completed.
