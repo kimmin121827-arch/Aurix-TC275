@@ -1,21 +1,18 @@
 Build started...
-16:14:37 **** Incremental Build of configuration TriCore Debug (TASKING) for project UART_Test1 ****
+13:04:44 **** Incremental Build of configuration TriCore Debug (TASKING) for project Single_ADC_Test ****
 amk -j8 all 
 TASKING VX-toolset for AURIX Development Studio (non-commercial): program builder v1.1r8 Build 22011964
-cctc -cs --dep-file="ASCLIN_UART.d" --misrac-version=2004 -D__CPU__=tc27xd "-fD:/Project/Aurix-TC275/UART_Test1/TriCore Debug (TASKING)/TASKING_C_C___Compiler-Include_paths__-I_.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc27xd -Y0 -N0 -Z0 -o "ASCLIN_UART.src" "../ASCLIN_UART.c"
-cctc -cs --dep-file="Cpu0_Main.d" --misrac-version=2004 -D__CPU__=tc27xd "-fD:/Project/Aurix-TC275/UART_Test1/TriCore Debug (TASKING)/TASKING_C_C___Compiler-Include_paths__-I_.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc27xd -Y0 -N0 -Z0 -o "Cpu0_Main.src" "../Cpu0_Main.c"
-ctc W505: ["../Cpu0_Main.c" 59/9] implicit declaration of function "blinkLED_cnt"
-ctc W577: ["../Cpu0_Main.c" 59/21] calling a function without a prototype
-0 errors, 2 warnings
-astc -Og -Os --no-warnings= --error-limit=42 -o  "Cpu0_Main.o" "Cpu0_Main.src"
-ctc W505: ["../ASCLIN_UART.c" 95/5] implicit declaration of function "decode_command"
-ctc W577: ["../ASCLIN_UART.c" 95/19] calling a function without a prototype
-0 errors, 2 warnings
-astc -Og -Os --no-warnings= --error-limit=42 -o  "ASCLIN_UART.o" "ASCLIN_UART.src"
-Building target: UART_Test1.elf
+cctc -cs --dep-file="Cpu1_Main.d" --misrac-version=2004 -D__CPU__=tc27xd "-fD:/Project/Aurix-TC275/Single_ADC_Test/TriCore Debug (TASKING)/TASKING_C_C___Compiler-Include_paths__-I_.opt" --iso=99 --c++14 --language=+volatile --exceptions --anachronisms --fp-model=3 -O0 --tradeoff=4 --compact-max-size=200 -g -Wc-w544 -Wc-w557 -Ctc27xd -Y0 -N0 -Z0 -o "Cpu1_Main.src" "../Cpu1_Main.c"
+astc -Og -Os --no-warnings= --error-limit=42 -o  "Cpu1_Main.o" "Cpu1_Main.src"
+Building target: Single_ADC_Test.elf
 Invoking: TASKING Linker
-cctc -f .UART_Test1.elf.opt
-ltc E108: multiple definitions of symbol "cnt_led" in both "Cpu0_Main.o" and "ASCLIN_UART.o"
-amk E452: ["makefile" 88/0] target 'UART_Test1.elf' returned exit code 1
-amk E451: make stopped
-"amk -j8 all" terminated with exit code 1. Build might be incomplete.
+cctc -f .Single_ADC_Test.elf.opt
+Finished building target: Single_ADC_Test.elf
+ 
+Invoking: Print Size
+elfsize  "Single_ADC_Test.elf"
+Total sizes:
+ROM: 0x4af1 (19185) = code: 0x46a2 (18082) + romdata: 0x44f (1103)
+RAM: 0x976d (38765) = data + bss
+Finished building: Single_ADC_Test.siz
+ 
